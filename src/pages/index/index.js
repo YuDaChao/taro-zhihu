@@ -1,5 +1,8 @@
 import Taro, { Component } from '@tarojs/taro'
 import { View, Text } from '@tarojs/components'
+
+import Search from '../../componetns/search/search'
+
 import './index.styl'
 
 export default class Index extends Component {
@@ -21,6 +24,7 @@ export default class Index extends Component {
   render () {
     return (
       <View className='index'>
+        <Search />
         <Text>首页</Text>
       </View>
     )
