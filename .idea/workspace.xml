@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20619c01-f3b6-4bfb-b2d8-d8485a718055" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/pages/answer/answer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/answer/answer.styl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/question/question.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/question/question.styl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/1444983318907-_DSC1826.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/house.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/componetns/feed/feed.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/componetns/feed/feed.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/index/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/more/more.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/more/more.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/more/more.styl" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/more/more.styl" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,27 +17,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="answer.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pages/answer/answer.js">
+      <file leaf-file-name="more.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pages/more/more.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="60" column="8" lean-forward="true" selection-start-line="60" selection-start-column="8" selection-end-line="60" selection-end-column="8" />
+            <state relative-caret-position="221">
+              <caret line="85" column="40" selection-start-line="85" selection-start-column="29" selection-end-line="85" selection-end-column="40" />
               <folding>
-                <element signature="e#0#46#0" expanded="true" />
-                <element signature="e#322#376#0" />
-                <element signature="e#508#799#0" />
+                <element signature="e#0#47#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="answer.styl" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/pages/answer/answer.styl">
+      <file leaf-file-name="more.styl" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/pages/more/more.styl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="61" column="17" lean-forward="true" selection-start-line="61" selection-start-column="17" selection-end-line="61" selection-end-column="17" />
+            <state relative-caret-position="136">
+              <caret line="36" column="18" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
               <folding>
-                <element signature="e#154#1305#0" />
+                <element signature="e#8#472#0" />
               </folding>
             </state>
           </provider>
@@ -75,6 +66,8 @@
         <option value="$PROJECT_DIR$/src/componetns/feed/feed.js" />
         <option value="$PROJECT_DIR$/src/pages/answer/answer.js" />
         <option value="$PROJECT_DIR$/src/pages/answer/answer.styl" />
+        <option value="$PROJECT_DIR$/src/pages/more/more.js" />
+        <option value="$PROJECT_DIR$/src/pages/more/more.styl" />
       </list>
     </option>
   </component>
@@ -95,8 +88,8 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="254" />
-    <option name="y" value="72" />
+    <option name="x" value="802" />
+    <option name="y" value="98" />
     <option name="width" value="1355" />
     <option name="height" value="877" />
   </component>
@@ -122,32 +115,6 @@
               <item name="taro-zhihu" type="b2602c69:ProjectViewProjectNode" />
               <item name="taro-zhihu" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taro-zhihu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taro-zhihu" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taro-zhihu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taro-zhihu" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="componetns" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taro-zhihu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taro-zhihu" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="componetns" type="462c0819:PsiDirectoryNode" />
-              <item name="feed" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taro-zhihu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taro-zhihu" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -155,21 +122,7 @@
               <item name="taro-zhihu" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="answer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taro-zhihu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taro-zhihu" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="index" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taro-zhihu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taro-zhihu" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="question" type="462c0819:PsiDirectoryNode" />
+              <item name="more" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -210,18 +163,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1537698918448</updated>
-      <workItem from="1537698919701" duration="12198000" />
+      <workItem from="1537698919701" duration="14978000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12198000" />
+    <option name="totallyTimeSpent" value="14978000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="254" y="72" width="1355" height="877" extended-state="0" />
+    <frame x="802" y="98" width="1355" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19115442" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.10344828" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
@@ -337,6 +290,16 @@
     <entry file="file://$PROJECT_DIR$/src/assets/images/house.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/answer/answer.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="22" lean-forward="true" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+          <folding>
+            <element signature="e#154#1305#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/answer/answer.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -349,12 +312,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/answer/answer.styl">
+    <entry file="file://$PROJECT_DIR$/src/pages/more/more.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="61" column="17" lean-forward="true" selection-start-line="61" selection-start-column="17" selection-end-line="61" selection-end-column="17" />
+        <state relative-caret-position="221">
+          <caret line="85" column="40" selection-start-line="85" selection-start-column="29" selection-end-line="85" selection-end-column="40" />
           <folding>
-            <element signature="e#154#1305#0" />
+            <element signature="e#0#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/more/more.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="36" column="18" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
+          <folding>
+            <element signature="e#8#472#0" />
           </folding>
         </state>
       </provider>
