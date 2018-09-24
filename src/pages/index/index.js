@@ -15,7 +15,6 @@ export default class Index extends Component {
   constructor () {
     super(...arguments)
     this.state = {
-      loading: true,
       list: []
     }
   }
@@ -31,7 +30,6 @@ export default class Index extends Component {
       if (res.data.success) {
         Taro.hideLoading()
         this.setState({
-          loading: false,
           list: res.data.data
         })
       }
@@ -45,8 +43,7 @@ export default class Index extends Component {
   componentDidHide () { }
 
   render () {
-    const { loading, list } = this.state
-    console.log(loading, list)
+    const { list } = this.state
     return (
       <View className='index'>
         <Search />

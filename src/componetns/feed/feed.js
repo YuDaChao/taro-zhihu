@@ -7,6 +7,11 @@ import more from '../../assets/images/more.png'
 import './feed.styl'
 
 export default class Feed extends Component {
+
+  navigateTo(url) {
+    Taro.navigateTo({ url: url })
+  }
+
   render() {
     const {feed} = this.props
     return (
@@ -24,12 +29,12 @@ export default class Feed extends Component {
         </View>
         <View className='feed-content'>
           <View className='question'>
-            <View className='question-link'>
+            <View className='question-link' onClick={this.navigateTo.bind(this, '/pages/question/question')}>
               <Text>{feed.question}</Text>
             </View>
           </View>
           <View className='answer-body'>
-            <View>
+            <View onClick={this.navigateTo.bind(this, '/pages/answer/answer')}>
               <Text className='answer-txt'>{feed.answer_ctnt}</Text>
             </View>
             <View className='answer-actions'>
